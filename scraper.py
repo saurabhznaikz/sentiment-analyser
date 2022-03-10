@@ -2,7 +2,7 @@ from flask import Flask,request
 from textblob import TextBlob
 app = Flask(__name__)
 
-@app.route("/sentiment",methods=["POST","GET"])
+@app.route("/",methods=["POST","GET"])
 def analyser():
     text = request.get_data()
     text=text.decode("utf-8")
