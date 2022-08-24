@@ -26,3 +26,16 @@ install all dependencies of the this project by
 ```bash
   pip install -r requirements.txt
 ```
+## Hosted API
+https://analytics.webemps.com/
+
+## Postman output
+
+### neutral sentence
+![neutral](https://user-images.githubusercontent.com/52929512/186461428-d986a0cd-1623-4275-8a0d-e2dfad40b876.png)
+
+### positive sentence
+![postive](https://user-images.githubusercontent.com/52929512/186461464-bec46529-9c5d-4dd2-ad39-0a31dab7fa03.png)
+
+### negative sentence
+![neg](https://user-images.githubusercontent.com/52929512/186461497-188b4620-42f1-4615-8ede-25e323a133c9.png)
